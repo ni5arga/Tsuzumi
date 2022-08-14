@@ -2,10 +2,6 @@
 ![TsuzumiImage](https://i.waifu.pics/pfkhW0K.png)
 A Telegram bot written in python to fetch both random waifu and neko images.
 
-### Commands
-```
-
-```
 ## Self-Hosting
 
 ### Host Locally or on VPS
